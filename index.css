@@ -33,9 +33,7 @@
     border: 1px solid #cccccc;
 }
 
-.row img{
- align-items: flex-end;
-}
+
 
 #boxshadow{
     box-shadow: 5px 5px 5px 5px;
@@ -93,6 +91,7 @@ hr {
 
   #follow{
     background-color: antiquewhite;
+   
   }
 
   p{
@@ -107,4 +106,17 @@ hr {
   }
   h1{
     font-family: Roboto_Light;
+  }
+
+  /* #bottom1{
+    margin-top:100px ;
+
+  } */
+
+  #soman{
+    text-align: justify;
+  }
+
+  #bottom3{
+    text-align:center;
   }
