@@ -1,0 +1,110 @@
+.Header {
+    word-spacing: 10px;
+
+}
+
+#navbarScroll {
+    text-indent: 20px;
+}
+
+#icon{
+    margin-left: -300px;
+}
+.div_box {
+    font-size: 3.5vw !important;
+    width: 62vw !important;
+    padding: 8px 16px !important;
+    letter-spacing: 4px !important;
+}
+.div_box {
+    width: 620px;
+    font-size: 26px;
+    font-family: Roboto_Light;
+    text-align: center;
+    padding: 20px 40px;
+    margin-top: -16px;
+    user-select: none;
+    letter-spacing: 6px;
+    background: #fff;
+    position: relative;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 10px;
+    border: 1px solid #cccccc;
+}
+
+.row img{
+ align-items: flex-end;
+}
+
+#boxshadow{
+    box-shadow: 5px 5px 5px 5px;
+    color: grey;
+}
+
+
+#buttonview{
+   align-items:center ;
+  
+}
+
+#buttonview:hover{
+    box-shadow: 5px 5px 5px 5px;
+    color: grey;
+
+}
+
+#hoverset :hover{
+    box-shadow: 5px 5px 5px 5px;
+    color: grey;
+
+}
+
+#boxshadow1{
+    box-shadow: 5px 5px 5px;
+    color: grey;
+}
+
+#footer{
+    background-color: rgb(243, 231, 232);
+}
+#footer a{
+    color: rgb(178, 67, 67);
+}
+
+#navbar{
+    background-color: rgb(255, 255, 255);
+    padding: 15px;
+}
+
+#hoverbutton{
+    box-shadow: 5px 5px 5px;
+    color: grey;
+}
+hr {
+    display: block;
+    margin-top: 0.5em;
+    margin-bottom: 0.5em;
+    margin-left: auto;
+    margin-right: auto;
+    border-style: inset;
+    border-width: 1px;
+  }
+
+  #follow{
+    background-color: antiquewhite;
+  }
+
+  p{
+    font-family: Roboto_Light;
+  }
+
+  a{
+    font-family: Roboto_Light;
+  }
+  h6{
+    font-family: Roboto_Light;
+  }
+  h1{
+    font-family: Roboto_Light;
+  }
